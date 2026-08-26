@@ -1,16 +1,17 @@
-## Hi there 👋
+# Diego Micali
 
-<!--
-**DiegoMicali/DiegoMicali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer — Node.js · Java · Python.
 
-Here are some ideas to get you started:
+Currently the sole engineer on a low-latency matching engine for a prediction-market
+exchange (private client repository): LMAX-style worker threads, lock-free
+SharedArrayBuffer ring buffers, red-black-tree order books, and 882 automated tests
+with byte-identical deterministic replay.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Highlighted repo:** [CadastroDeNinjas](https://github.com/DiegoMicali/CadastroDeNinjas) —
+Spring Boot REST API with layered architecture (DTOs, mappers, Flyway migrations) and a Thymeleaf UI.
+
+**Stack:** Node.js/JavaScript · Java (Spring Boot) · Python · SQL · Kafka · Redis · PostgreSQL · Docker · GitHub Actions
+
+📫 [LinkedIn](https://linkedin.com/in/diego-micali-981549238) · diego.micali13@gmail.com
+
+Systems Analysis & Development student @ PUCPR (expected 2027) — Londrina, Brazil.
